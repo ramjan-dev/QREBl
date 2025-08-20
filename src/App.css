@@ -1,0 +1,7 @@
+@import "tailwindcss";
+
+@theme {
+  --color-menuColor: #767676;
+  --color-menuHoverColor: #262626;
+  --text-14: 14px;
+}
